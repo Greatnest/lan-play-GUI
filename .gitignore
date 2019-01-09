@@ -4,3 +4,4 @@ dist/
 .vs/VSWorkspaceState.json
 .vs/slnx.sqlite
 .DS_Store
+*.log*
